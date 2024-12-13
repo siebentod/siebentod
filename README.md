@@ -9,3 +9,4 @@
 #### Other:
 - [Obsidian](https://github.com/siebentod/obsidian-snippets) snippets, scripts, etc
 - [Selected Russian-Language Materials on Western Philosophy](https://github.com/siebentod/history-of-philosophy)
+- [Dzen](https://dzen.ru/phil) – my philosophy notes disguised as essays
