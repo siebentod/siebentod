@@ -1,5 +1,5 @@
 #### My web projects:
-- [Apoliteia](https://github.com/siebentod/apoliteia) – Bilingual library with parallel texts. Slowly adding new pages and functionality (settings, new non-parallel pages type)
+- [Apoliteia](https://github.com/siebentod/apoliteia) – Bilingual library with parallel texts. Slowly adding new pages and functionality
 - [Nivritti](https://github.com/siebentod/nivritti) – Web-App that helps you do nothing with aroma of Indian philosophy. Has registration and statistics. Will be updated someday...
 - [Rigveda](https://github.com/siebentod/rigveda-purejs) – all Rigveda hymns in Russian. SSG+SPA made with pure JS.
 - [Extracts](https://github.com/siebentod/philosophy-extracts) – similar to previous but with more filters and modal windows, made with Next.js
