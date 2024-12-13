@@ -7,5 +7,5 @@
 - [Birzha](https://github.com/siebentod/birzha) – small web-utility to explore MOEX assets in time
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf) – Tiny Desktop/Web utility made with Tauri
 #### Other:
-- [Obsidian things](https://github.com/siebentod/obsidian-snippets): snippets, scripts, etc
+- [Obsidian](https://github.com/siebentod/obsidian-snippets) snippets, scripts, etc
 - [Selected Russian-Language Materials on Western Philosophy](https://github.com/siebentod/history-of-philosophy)
