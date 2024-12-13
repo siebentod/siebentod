@@ -5,7 +5,7 @@
 - [Extracts](https://github.com/siebentod/philosophy-extracts) – similar to previous but with more filters and modal windows, made with Next.js
 - [Last.fm web-utility](https://github.com/siebentod/lastfm-obscure-artists) to search obscure artists of trve users
 - [Birzha](https://github.com/siebentod/birzha) – Web-utility to explore MOEX assets in time
-- [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf) – Tiny Desktop + Web utility made with Tauri
+- [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf) – Tiny Desktop/Web utility made with Tauri
 #### Other:
 - [Obsidian things](https://github.com/siebentod/obsidian-snippets): snippets, scripts, etc
 - [Selected Russian-Language Materials on Western Philosophy](https://github.com/siebentod/history-of-philosophy)
