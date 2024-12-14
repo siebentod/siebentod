@@ -11,3 +11,6 @@
 - [Selected Russian-Language Materials on Western Philosophy](https://github.com/siebentod/history-of-philosophy)
 - [Page on Dzen](https://dzen.ru/phil) – my philosophy notes disguised as essays
 
+<a href="https://github.com/ваш_username">
+  <img src="assets/github.svg" alt="GitHub Logo" width="20" style="vertical-align: middle;">
+</a>
