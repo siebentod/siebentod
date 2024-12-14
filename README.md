@@ -1,6 +1,6 @@
 #### My web projects:
-- [Apoliteia](https://github.com/siebentod/apoliteia)/<a href="https://github.com/siebentod/apoliteia" color="green" text-decoration="none">
-  <img src="assets/github.svg" alt="GitHub Logo" width="16px" style="vertical-align: middle" color="green">
+- [Apoliteia](https://github.com/siebentod/apoliteia)/<a href="https://github.com/siebentod/apoliteia" style="text-decoration: none;">
+  <img src="assets/github.svg" alt="GitHub Logo" width="16px" style="vertical-align: middle">
 </a> – web library with parallel bilingual texts. Slowly adding new pages and functionality (like searching through author corpuses)
 - [Nivritti](https://github.com/siebentod/nivritti) – web app that helps you do nothing with aroma of Indian philosophy. Has registration and statistics. Will be updated someday...
 - [Rigveda](https://github.com/siebentod/rigveda-purejs) – all Rigveda hymns in Russian. SSG+SPA made with pure JS
