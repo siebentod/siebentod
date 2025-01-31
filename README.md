@@ -7,6 +7,8 @@
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/lastfm-obscure-artists) · Small web utility to search obscure artists of trve users
 - [Birzha](https://birzha.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/birzha) · Small web utility to explore MOEX assets in time
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Tiny desktop/web utility (made with Tauri)
+- [TG Rigvedabot](https://t.me/rigvedabot_bot)
+- [Arktogaia.ru](arktogaia.ru)
 #### Other:
 - [Obsidian](https://github.com/siebentod/obsidian-snippets) snippets, scripts, etc
 - [Selected Russian-Language Materials on Western Philosophy](https://github.com/siebentod/history-of-philosophy)
