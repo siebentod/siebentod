@@ -7,10 +7,9 @@
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/lastfm-obscure-artists) · Приложение чтобы искать новых обскурных артистов в Last.fm. И мое первое приложение работающее с API: [Birzha](https://birzha.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/birzha)
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Веб/десктоп утилита чтобы удалять лишние разрывы строки из PDF, удобно пользоваться в десктопе
 
-- [Arktogaia.ru](https://arktogaia.ru)
-- [WorldWise](https://worldwise.ru/)
+- [Arktogaia.ru](https://arktogaia.ru) · Музей Арктогеи
+- [WorldWise](https://worldwise.ru/) · Попытка в AI загрязнение интернета
 #### Other:
-- [Obsidian](https://github.com/siebentod/obsidian-snippets) snippets, scripts, etc
-- [Selected Russian-Language Materials on Western Philosophy](https://github.com/siebentod/history-of-philosophy)
-- [Page on Y.Dzen](https://dzen.ru/phil) – my philosophy notes disguised as essays
-
+- [Obsidian](https://github.com/siebentod/obsidian-snippets) Скрипты, сниппеты и т.д.
+- [Материалы по истории философии](https://github.com/siebentod/history-of-philosophy)
+- [Конспекты замаскированные под эссе](https://dzen.ru/phil)
