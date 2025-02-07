@@ -1,5 +1,5 @@
 #### My web projects:
-- [Apoliteia](https://apoliteia.ru) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/apoliteia) · Библиотека с параллельными билингвальными текстами (греческий, немецкий и др.). Когда-нибудь может будет можно проводить поиск по полным корпусам Ницше и Платона
+- [Apoliteia](https://apoliteia.ru) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/apoliteia) · Библиотека с параллельными билингвальными текстами (греческий, немецкий и др.). Может, когда-нибудь можно будет проводить поиск по полным корпусам Ницше и Платона
 - [Nivritti](https://nivritti.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/nivritti) · Приложение для ничегонеделания с ароматом индийской философии. Есть регистрация и статистика пользователя по дням
 
 - [Rigveda](https://rigveda-hymns.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей. Тж. [TG Rigvedabot](https://t.me/rigvedabot_bot)
