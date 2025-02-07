@@ -8,7 +8,7 @@
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Веб/десктоп утилита чтобы удалять лишние разрывы строки из PDF, удобно пользоваться в десктопе
 
 - [Arktogaia.ru](https://arktogaia.ru) · Музей Арктогеи
-- [WorldWise](https://worldwise.ru/) · Попытка в AI загрязнение интернета
+- [WorldWise](https://worldwise.ru/) · Попытка причаститься к AI-загрязнению интернета
 #### Другое
 - [Obsidian](https://github.com/siebentod/obsidian-snippets) Скрипты, сниппеты и т.д.
 - [Материалы по истории философии](https://github.com/siebentod/history-of-philosophy)
