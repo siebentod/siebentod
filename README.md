@@ -15,4 +15,4 @@
 #### Другое
 - [Obsidian](https://github.com/siebentod/obsidian-snippets) Скрипты, сниппеты и т.д.
 - [Материалы по истории философии](https://github.com/siebentod/history-of-philosophy)
-- [Конспекты, замаскированные под эссе](https://dzen.ru/apoliteia)
+- [Конспекты, замаскированные под эссе](https://dzen.ru/phil)
