@@ -11,6 +11,7 @@
   - 🔥 [Nietzsche Nachlass](https://t.me/nietzschenachlass_bot) · Случайная запись из многотомных черновиков Ницше с поиском
   - [TG Rigvedabot](https://t.me/rigvedabot_bot) · Случайный гимн
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Веб/десктоп утилита чтобы удалять лишние разрывы строки из PDF, удобно пользоваться в десктопе
+- [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/portfolio-rebalance) · Утилита
 
 #### Другое
 - [Obsidian](https://github.com/siebentod/obsidian-snippets) Скрипты, сниппеты и т.д.
