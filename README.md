@@ -5,8 +5,8 @@
 - UI для собраний текстов гуманитарной тематики:
   - [Arktogaia.ru](https://arktogaia.ru) · Музей Арктогеи
   - [Nietzsche Fragments](https://nachlass.apoliteia.ru/) · Фрагменты Ницше
-  - [Rigveda](https://rigveda-hymns.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей
-  - [Extracts](https://philosophy-extracts.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Философские отрывки с фильтрами и презентирующим поиском
+  - [Rigveda](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей
+  - [Extracts](https://extracts.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Философские отрывки с фильтрами и презентирующим поиском
   - [WorldWise](https://worldwise.ru/) · Попытка причаститься к AI-загрязнению интернета
 - Телеграм боты:
   - [Nietzsche Nachlass](https://t.me/nietzschenachlass_bot) · Случайная запись из многотомных черновиков Ницше с поиском
