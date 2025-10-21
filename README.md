@@ -17,3 +17,5 @@
 - [Obsidian](https://github.com/siebentod/obsidian-snippets) Скрипты, сниппеты и т.д.
 - [Материалы по истории философии](https://github.com/siebentod/history-of-philosophy)
 - [Мои старые учебные тексты по философии](https://dzen.ru/phil)
+
+![GitHub Unemployed](https://github.com/siebentod/siebentod/blob/main/assets/unemployed.jpg)
