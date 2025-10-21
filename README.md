@@ -3,11 +3,11 @@
 - [Nivritti](https://nivritti.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/nivritti) · Приложение для ничегонеделания с флером индийской философии. Еще там можно нажать на кнопку аудио и бесконечно слушать зацикленный шум... 🔥 [Отдельно шум](https://noise-mc.ru)
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/lastfm-obscure-artists) · Приложение чтобы искать новых обскурных артистов в Last.fm + 🔥 [Firefox аддон](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
 - UI для собраний текстов гуманитарной тематики:
-  - [Arktogaia.ru](https://arktogaia.ru) · Музей Арктогеи
-  - [Nietzsche Fragments](https://nachlass.apoliteia.ru/) · Фрагменты Ницше
-  - [Rigveda](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей
-  - [Extracts](https://extracts.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Философские отрывки с фильтрами и презентирующим поиском
-  - [WorldWise](https://worldwise.ru/) · Попытка причаститься к AI-загрязнению интернета
+  - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи
+  - [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Фрагменты Ницше
+  - [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей
+  - [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Философские отрывки с фильтрами и презентирующим поиском
+  - [worldwise.ru](https://worldwise.ru/) · Попытка причаститься к AI-загрязнению интернета
 - Телеграм боты:
   - [Nietzsche Nachlass](https://t.me/nietzschenachlass_bot) · Случайная запись из многотомных черновиков Ницше с поиском
   - [TG Rigvedabot](https://t.me/rigvedabot_bot) · Случайный гимн
