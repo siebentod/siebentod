@@ -4,18 +4,19 @@
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/lastfm-obscure-artists) · Приложение чтобы искать новых обскурных артистов в Last.fm + 🔥 [Firefox аддон](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
 - UI для собраний текстов гуманитарной тематики:
   - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи
-  - [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Фрагменты Ницше
-  - [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей
+  - [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Nietzsche Nachlass Fragments (Deu)
+  - [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимосте
+  - [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · Georg Trakl Gedichte with full-text search (Deu)
   - [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Философские отрывки с фильтрами и презентирующим поиском
   - [worldwise.ru](https://worldwise.ru/) · Попытка причаститься к AI-загрязнению интернета
 - Телеграм боты:
-  - [Nietzsche Nachlass](https://t.me/nietzschenachlass_bot) · Случайная запись из многотомных черновиков Ницше с поиском
+  - [Nietzsche Nachlass](https://t.me/nietzschenachlass_bot) · Random entry from Nietzsche Fragments with search (Deu, buggy)
   - [TG Rigvedabot](https://t.me/rigvedabot_bot) · Случайный гимн
-- [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Веб/десктоп утилита чтобы удалять лишние разрывы строки из PDF, удобно пользоваться в десктопе
-- [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/portfolio-rebalance) · Утилита
+- [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Web/desktop utility to remove line breaks from PDF copypaste. I still use it all the time in Desktop
+- [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/portfolio-rebalance) · Utility
 
 #### Другое
-- [Obsidian](https://github.com/siebentod/obsidian-snippets) Скрипты, сниппеты и т.д.
+- [Obsidian](https://github.com/siebentod/obsidian-snippets) Templater scripts, css snippets etc
 - [Материалы по истории философии](https://github.com/siebentod/history-of-philosophy)
 - [Мои старые учебные тексты по философии](https://dzen.ru/phil)
 
