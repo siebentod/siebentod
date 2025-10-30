@@ -4,10 +4,10 @@
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/lastfm-obscure-artists) · Приложение чтобы искать новых обскурных артистов в Last.fm + 🔥 [Firefox аддон](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
 - UI для собраний текстов гуманитарной тематики:
   - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи
-  - [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Nietzsche Nachlass Fragments (Deu)
-  - [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимосте
+  - [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Nietzsche Nachlass Fragments with full-text search (Deu)
   - [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · Georg Trakl Gedichte with full-text search (Deu)
-  - [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Философские отрывки с фильтрами и презентирующим поиском
+  - [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Отрывки из философов
+  - [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей
   - [worldwise.ru](https://worldwise.ru/) · Попытка причаститься к AI-загрязнению интернета
 - Телеграм боты:
   - [Nietzsche Nachlass](https://t.me/nietzschenachlass_bot) · Random entry from Nietzsche Fragments with search (Deu, buggy)
