@@ -8,10 +8,6 @@
   - [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · Georg Trakl Gedichte with full-text search (Deu)
   - [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/philosophy-extracts) · Отрывки из философов
   - [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Гимны Ригведы. SSG+SPA без npm-зависимостей
-  - [worldwise.ru](https://worldwise.ru/) · Попытка причаститься к AI-загрязнению интернета
-- Телеграм боты:
-  - [Nietzsche Nachlass](https://t.me/nietzschenachlass_bot) · Random entry from Nietzsche Fragments with search (Deu, buggy)
-  - [TG Rigvedabot](https://t.me/rigvedabot_bot) · Случайный гимн
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Web/desktop utility to remove line breaks from PDF copypaste. I still use it all the time in Desktop
 - [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/portfolio-rebalance) · Utility
 
