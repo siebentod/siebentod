@@ -1,5 +1,5 @@
 #### Мои поделки
-##### UI for humanities texts
+##### UI for humanities
 - [Apoliteia](https://apoliteia.ru) · Parallel bilingual texts with corpus search
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
 - [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Nietzsche Nachlass Fragments (full-text search)
