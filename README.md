@@ -3,7 +3,7 @@
 - [Apoliteia](https://apoliteia.ru) · Parallel bilingual texts with corpus search
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
 - [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Nietzsche Nachlass Fragments (full-text search)
-- [briefe.apoliteia.ru](https://briefe.apoliteia.ru/) · Nietzsche Letters
+- [briefe.apoliteia.ru](https://briefe.apoliteia.ru/) · Nietzsche Letters (full-text search)
 - [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/rigveda-purejs) · Rigveda Hymns
 - [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · Georg Trakl (full-text search)
 - [msu.apoliteia.ru](https://msu.apoliteia.ru/) · История философии учебник МГУ
