@@ -12,6 +12,6 @@
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/lastfm-obscure-artists) · Utility for searching new obscure artists in Last.fm + [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/clean-copy-from-pdf) · Tiny desktop/web utility to remove line breaks from PDF copypaste
 - [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/portfolio-rebalance) · Highly-vibecoded utility
-- [ParallelTranslation](https://translate.apoliteia.ru/) · Утилита для параллельного перевода текстов. Есть в десктопе, но стыдно выкладывать код
+- [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
 
 ![GitHub Unemployed](https://github.com/siebentod/siebentod/blob/main/assets/unemployed.jpg)
