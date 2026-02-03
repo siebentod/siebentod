@@ -1,4 +1,9 @@
 #### Мои поделки
+
+##### Desktop Apps
+- [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
+- AcademyNomad · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/AcademyNomad) · Десктоп утилита для удобства работы с PDF и хайлайтами
+
 ##### UI for humanities
 - [Apoliteia](https://apoliteia.ru) · Parallel bilingual texts with corpus search
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
@@ -8,10 +13,10 @@
 - [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · Georg Trakl (full-text search)
 - [msu.apoliteia.ru](https://msu.apoliteia.ru/) · История философии учебник МГУ
 - [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · Отрывки из философов
-##### Web/Desktop Utilites
+
+##### Other
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) · Utility for searching new obscure artists in Last.fm + [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
 - [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · Tiny desktop/web utility to remove line breaks from PDF copypaste
 - [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · Highly-vibecoded utility
-- [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
 
 ![GitHub Unemployed](https://github.com/siebentod/siebentod/blob/main/assets/unemployed.jpg)
