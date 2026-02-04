@@ -7,16 +7,11 @@
 ##### UI for humanities
 - [Apoliteia](https://apoliteia.ru) · Parallel bilingual texts with corpus search
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
-- [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Nietzsche Nachlass Fragments (full-text search)
-- [briefe.apoliteia.ru](https://briefe.apoliteia.ru/) · Nietzsche Letters (full-text search)
-- [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · Rigveda Hymns
-- [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · Georg Trakl (full-text search)
-- [msu.apoliteia.ru](https://msu.apoliteia.ru/) · История философии учебник МГУ
-- [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · Отрывки из философов
+- [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · Другие UI: [nachlass.apoliteia.ru](https://nachlass.apoliteia.ru/) · [briefe.apoliteia.ru](https://briefe.apoliteia.ru/) · [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/)
 
 ##### Other
-- [Last.fm](https://lastfm-obscure-artists.vercel.app/) · Utility for searching new obscure artists in Last.fm + [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
-- [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · Tiny desktop/web utility to remove line breaks from PDF copypaste
+- [Last.fm](https://lastfm-obscure-artists.vercel.app/) · Search obscure artists in Last.fm + [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
+- [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · Desktop/Web. Remove line breaks from PDF copypaste
 - [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · Highly-vibecoded utility
 
 ![GitHub Unemployed](https://github.com/siebentod/siebentod/blob/main/assets/unemployed.jpg)
