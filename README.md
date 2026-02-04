@@ -7,7 +7,7 @@
 ##### UI for humanities
 - [Apoliteia](https://apoliteia.ru) · Parallel bilingual texts with corpus search
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
-- [nietzsche.apoliteia.ru](https://nietzsche.apoliteia.ru/) · Несколько сайтов про Н.
+- [nietzsche.apoliteia.ru](https://nietzsche.apoliteia.ru/) · Nietzschemania
 - Другие UI: [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/)
 
 ##### Other
