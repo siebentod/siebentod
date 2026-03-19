@@ -10,8 +10,6 @@
 - Другие UI: [nietzsche.apoliteia.ru](https://nietzsche.apoliteia.ru/) · [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)
 
 ##### Other
-- [Last.fm](https://lastfm-obscure-artists.vercel.app/) · Search obscure artists in Last.fm + [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)
-- [Clean Copy From PDF](https://github.com/siebentod/clean-copy-from-pdf/releases) · Desktop/Web. Remove line breaks from PDF copypaste
-- [Ребалансировка портфеля](https://portfolio-rebalance.ru/) · Highly-vibecoded utility
+- [Last.fm](https://lastfm-obscure-artists.vercel.app/) (+ [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)), [Шум с таймером](https://noise.apoliteia.ru), [Обрезание абзацев из PDF](https://github.com/siebentod/clean-copy-from-pdf/releases), [Ребалансировка портфеля](https://portfolio-rebalance.ru/)
 
 ![GitHub Unemployed](https://github.com/siebentod/siebentod/blob/main/assets/unemployed.jpg)
