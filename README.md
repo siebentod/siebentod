@@ -6,8 +6,9 @@
 
 ##### UI for humanities
 - [Apoliteia](https://apoliteia.ru) · Parallel bilingual texts with corpus search
+- [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпуса Fragmente, Briefe, поиск по корпусам
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
-- Другие UI: [nietzsche.apoliteia.ru](https://nietzsche.apoliteia.ru/) · [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)
+- Другие UI: [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)
 
 ##### Other
 - [Last.fm](https://lastfm-obscure-artists.vercel.app/) (+ [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)), [Шум с таймером](https://noise.apoliteia.ru), [Обрезание абзацев из PDF](https://github.com/siebentod/clean-copy-from-pdf/releases), [Ребалансировка портфеля](https://portfolio-rebalance.ru/)
