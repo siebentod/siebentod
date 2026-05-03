@@ -5,8 +5,8 @@
 - AcademyNomad · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/AcademyNomad) · Десктоп утилита для удобства работы с PDF и хайлайтами
 
 ##### UI for humanities
-- [Apoliteia](https://apoliteia.ru) · Parallel bilingual texts with corpus search
-- [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпуса Fragmente, Briefe, поиск по корпусам
+- [Apoliteia](https://apoliteia.ru) · Параллельные тексты, корпус Платона
+- [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы Fragmente, Briefe, поиск по корпусам
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
 - Другие UI: [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)
 
