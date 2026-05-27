@@ -3,6 +3,7 @@
 ##### Desktop Apps
 - [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
 - AcademyNomad · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/AcademyNomad) · Десктоп утилита для удобства работы с PDF и хайлайтами
+- telegrob · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/telegrob) · Кастомный клиент для удобного слушания музыки с lastfm скробблером + возможность сортировать посты в канале по просмотрам и другие понадобившиеся мне функции
 
 ##### UI for humanities
 - [Apoliteia](https://apoliteia.ru) · Параллельные тексты, корпус Платона
