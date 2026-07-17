@@ -19,6 +19,6 @@
 - [Шахматные координаты](https://www.rustore.ru/catalog/app/com.siebentod.chesscoordinates) завайбкоденные простые
 
 ##### Other
-- [Last.fm](https://lastfm-obscure-artists.vercel.app/) (+ [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/)), [Шум с таймером](https://noise.apoliteia.ru), [Обрезание абзацев из PDF](https://github.com/siebentod/clean-copy-from-pdf/releases), [Ребалансировка портфеля](https://portfolio-rebalance.ru/)
+- [Расширение Firefox для lastfm, ищущее аристов](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/), [Шум с таймером](https://noise.apoliteia.ru), [Обрезание абзацев из PDF](https://github.com/siebentod/clean-copy-from-pdf/releases), [Ребалансировка портфеля](https://portfolio-rebalance.ru/)
 
 ![GitHub Unemployed](https://github.com/siebentod/siebentod/blob/main/assets/unemployed.jpg)
