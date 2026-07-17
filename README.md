@@ -15,11 +15,11 @@
 - telegrob · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/telegrob) · Кастомный клиент телеграм музыкальный плеер
 
 ##### Android
-- [Ницше Fortuna](https://www.rustore.ru/catalog/app/com.siebentod.nietzschefortuna) Простое приложение показывает случайные фрагменты с оригиналом
-- [Шахматные координаты](https://www.rustore.ru/catalog/app/com.siebentod.chesscoordinates) завайбкоденные простые
+- [Ницше Fortuna](https://www.rustore.ru/catalog/app/com.siebentod.nietzschefortuna) · Простое приложение показывает случайные фрагменты с оригиналом
+- [Шахматные координаты](https://www.rustore.ru/catalog/app/com.siebentod.chesscoordinates) · простые завайбкоденные
 
 ##### Other
-- [Расширение Firefox для lastfm](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/) Ищет незнакомых исполнителей юзера
+- [Расширение Firefox для lastfm](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/) · Ищет незнакомых исполнителей юзера
 - [Бот для массового скачивания музыки из VK](https://myvkaudio.ru/) · Пока не очень взлетело, но работает...
 - [Шум с таймером](https://noise.apoliteia.ru), [Обрезание абзацев из PDF](https://github.com/siebentod/clean-copy-from-pdf/releases), [Ребалансировка портфеля](https://portfolio-rebalance.ru/), [Портфолио](https://portfolio.apoliteia.ru/)
 
