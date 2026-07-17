@@ -1,10 +1,5 @@
 #### Мои поделки
 
-##### Desktop Apps
-- [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
-- AcademyNomad · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/AcademyNomad) · Десктоп утилита для удобства работы с PDF и хайлайтами
-- telegrob · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/telegrob) · Кастомный клиент телеграм музыкальный плеер
-
 ##### UI for humanities
 - [Apoliteia](https://apoliteia.ru) · Параллельные тексты, корпус Платона
 - [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы Fragmente, Briefe, поиск по корпусам
@@ -13,6 +8,11 @@
 - Другие UI: [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/)  · [podkoren.apoliteia.ru](https://podkoren.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)  
 
 Все задеплоенные проекты почти исключительно SSG, это просто файлы которые раздаются nginx. Отсюда некоторые ограничения
+
+##### Desktop Apps
+- [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
+- AcademyNomad · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/AcademyNomad) · Десктоп утилита для удобства работы с PDF и хайлайтами
+- telegrob · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/telegrob) · Кастомный клиент телеграм музыкальный плеер
 
 ##### Android
 - [Ницше Fortuna](https://www.rustore.ru/catalog/app/com.siebentod.nietzschefortuna) Простое приложение показывает случайные фрагменты с оригиналом
