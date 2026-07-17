@@ -7,7 +7,7 @@
 - [xslop](https://xslop.ru/) · Проекты с более-менее ценными текстами сгенерированными ноосферой: [summaries](https://summaries.xslop.ru/), [courses](https://courses.xslop.ru/)
 - Другие UI: [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/)  · [podkoren.apoliteia.ru](https://podkoren.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)  
 
-Все задеплоенные проекты почти исключительно SSG, это просто файлы которые раздаются nginx. Отсюда некоторые ограничения
+Все задеплоенные проекты почти исключительно SSG (раздача статики nginx), отсюда некоторые ограничения
 
 ##### Desktop Apps
 - [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
