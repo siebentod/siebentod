@@ -4,7 +4,7 @@
 - [Apoliteia](https://apoliteia.ru) · Параллельные тексты, корпус Платона
 - [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы Fragmente, Briefe, поиск по корпусам
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
-- [xslop] · Проекты с более-менее ценным текстом сгенерированным ноосферой: [summaries](https://summaries.xslop.ru/), [courses](https://courses.xslop.ru/)
+- [xslop](https://xslop.ru/) · Проекты с более-менее ценными текстами сгенерированными ноосферой: [summaries](https://summaries.xslop.ru/), [courses](https://courses.xslop.ru/)
 - Другие UI: [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/)  · [podkoren.apoliteia.ru](https://podkoren.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)  
 
 Все задеплоенные проекты почти исключительно SSG, это просто файлы которые раздаются nginx. Отсюда некоторые ограничения
