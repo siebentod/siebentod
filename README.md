@@ -11,7 +11,7 @@
 
 ##### Desktop Apps
 - [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
-- AcademyNomad · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/AcademyNomad) · Десктоп утилита для удобства работы с PDF и хайлайтами
+- AcademyNomad · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/AcademyNomad) · Десктоп утилита для удобства работы с PDF в системе и аннотациями в них
 - telegrob · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/telegrob) · Кастомный клиент телеграм музыкальный плеер (version 0)
 
 ##### Android
