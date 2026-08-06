@@ -21,6 +21,6 @@
 ##### Other
 - [Расширение Firefox для lastfm](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/) · Ищет незнакомых исполнителей юзера
 - [Бот для массового скачивания музыки из VK](https://myvkaudio.ru/) · Пока не очень взлетело, но работает...
-- [Шум с таймером](https://noise.apoliteia.ru), [Обрезание абзацев из PDF](https://github.com/siebentod/clean-copy-from-pdf/releases), [Ребалансировка портфеля](https://portfolio-rebalance.ru/), [Портфолио](https://portfolio.apoliteia.ru/)
+- [Шум с таймером](https://noise.apoliteia.ru), [Обрезание абзацев из PDF](https://github.com/siebentod/clean-copy-from-pdf/releases), [portfolio-rebalance](https://portfolio-rebalance.ru/), [obsidian-vk-sync](https://github.com/siebentod/obsidian-vk-sync), [portfolio](https://portfolio.apoliteia.ru/)
 
 ![GitHub Unemployed](https://github.com/siebentod/siebentod/blob/main/assets/unemployed.jpg)
