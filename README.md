@@ -5,7 +5,7 @@
 - [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы сочинений, фрагментов, писем, поиск по корпусам
 - [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · Музей Арктогеи с полнотекстовым поиском
 - XSlop · Проекты с более-менее ценными текстами сгенерированными ноосферой: [summaries](https://xslop.ru/), [courses](https://courses.xslop.ru/)
-- Другие UI: [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/)  · [podkoren.apoliteia.ru](https://podkoren.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)  
+- Другие UI: [fedorov.apoliteia.ru](https://fedorov.apoliteia.ru/) ·  [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/)  · [podkoren.apoliteia.ru](https://podkoren.apoliteia.ru/) · [extracts.apoliteia.ru](https://extracts.apoliteia.ru/) · [msu.apoliteia.ru](https://msu.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru)  
 
 Все задеплоенные проекты почти исключительно SSG (раздача статики nginx), отсюда некоторые ограничения
 
