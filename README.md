@@ -1,6 +1,6 @@
 #### Мои поделки
 
-##### UI for humanities
+##### UI for Humanities
 - [Apoliteia](https://apoliteia.ru) · Параллельные тексты, корпус Платона
 - [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы сочинений, фрагментов, писем, поиск по корпусам
 - Другие UI: [fedorov.apoliteia.ru](https://fedorov.apoliteia.ru/) ·  [xslop.ru](https://xslop.ru/) · [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/)  · [podkoren.apoliteia.ru](https://podkoren.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru) 
