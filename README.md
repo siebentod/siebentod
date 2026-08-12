@@ -5,7 +5,7 @@
 - [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы сочинений, фрагментов, писем, поиск по корпусам
 - Другие UI: [fedorov.apoliteia.ru](https://fedorov.apoliteia.ru/) ·  [xslop.ru](https://xslop.ru/) · [arcto.apoliteia.ru](https://arcto.apoliteia.ru/) · [rigveda.apoliteia.ru](https://rigveda.apoliteia.ru/) · [trakl.apoliteia.ru](https://trakl.apoliteia.ru/)  · [podkoren.apoliteia.ru](https://podkoren.apoliteia.ru/) · [canto-sperber](https://canto-sperber.apoliteia.ru) 
 
-Все задеплоенные проекты почти исключительно SSG (раздача статики nginx), отсюда некоторые ограничения
+Все задеплоенные проекты почти исключительно SSG (раздача статики nginx), отсюда некоторые ограничения. Готов поучаствовать в совместных проектах на тему Digital Humanities или рассмотреть заказ.
 
 ##### Desktop Apps
 - [ParallelTranslation](https://translate.apoliteia.ru/) · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/parallel-translation) · Десктоп/веб утилита для параллельного перевода текстов
