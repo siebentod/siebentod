@@ -14,7 +14,7 @@
 
 ##### Android
 - [Ницше Fortuna](https://www.rustore.ru/catalog/app/com.siebentod.nietzschefortuna) · Простое приложение показывает случайные фрагменты с оригиналом
-- [Шахматные координаты](https://www.rustore.ru/catalog/app/com.siebentod.chesscoordinates) · простые завайбкоденные
+- [Шахматные координаты](https://www.rustore.ru/catalog/app/com.siebentod.chesscoordinates) · [Зацикленный шум без паузы](https://www.rustore.ru/catalog/app/com.siebentod.noisemc)
 
 ##### Other
 - [Расширение Firefox для lastfm](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/) · Ищет незнакомых исполнителей юзера
