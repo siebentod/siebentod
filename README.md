@@ -2,7 +2,7 @@
 
 ##### UI for Humanities
 - [Apoliteia](https://apoliteia.ru) · Параллельные тексты, корпус Платона
-- [Ницшемания](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы сочинений, фрагментов, писем, поиск по корпусам
+- [Nietzschemania](https://nietzsche.apoliteia.ru/) · Портал про Ницше. Параллельные корпусы сочинений, фрагментов, писем, поиск по корпусам
 - Другие UI: [fedorov](https://fedorov.apoliteia.ru/) ·  [xslop](https://xslop.ru/) · [arcto](https://arcto.apoliteia.ru/) · [rigveda](https://rigveda.apoliteia.ru/) · [trakl](https://trakl.apoliteia.ru/)  · [podkoren](https://podkoren.apoliteia.ru/) · [casb](https://casb.apoliteia.ru) 
 
 Все задеплоенные проекты почти исключительно SSG (раздача статики nginx), отсюда некоторые ограничения. Готов поучаствовать в совместных проектах на тему Digital Humanities или рассмотреть заказ.
