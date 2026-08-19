@@ -13,7 +13,8 @@
 - telegrob · [![GitHub Logo](https://github.com/siebentod/siebentod/blob/main/assets/github.svg)](https://github.com/siebentod/telegrob) · Кастомный телеграм клиент для прослушивания музыки с lastfm (version 0)
 
 ##### Android
-- [Ницше Fortuna](https://www.rustore.ru/catalog/app/com.siebentod.nietzschefortuna) · Простое приложение показывает случайные фрагменты с оригиналом · [Шахматные координаты](https://www.rustore.ru/catalog/app/com.siebentod.chesscoordinates) · [Зацикленный шум без паузы](https://www.rustore.ru/catalog/app/com.siebentod.noisemc)
+- [Ницше Fortuna](https://www.rustore.ru/catalog/app/com.siebentod.nietzschefortuna) · Простое приложение показывает случайные фрагменты с оригиналом
+- [Шахматные координаты](https://www.rustore.ru/catalog/app/com.siebentod.chesscoordinates) · [Зацикленный шум без паузы](https://www.rustore.ru/catalog/app/com.siebentod.noisemc)
 
 ##### Other
 - [Расширение Firefox для lastfm](https://addons.mozilla.org/en-US/firefox/addon/last-fm-get-obscure-artists/) · Ищет незнакомых исполнителей юзера
